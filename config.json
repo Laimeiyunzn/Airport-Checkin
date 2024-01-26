@@ -3,11 +3,11 @@
         "http": "http:/127.0.0.1:1080",
         "https": "http://127.0.0.1:1080"
     },
-    "waitTime": 0,
+    "waitTime": 8,
     "retry": 5,
-    "domains": [
+    "domains": [dounai.pro
         {
-            "domain": "url",
+            "domain": "https://dounai.pro/auth/login",
             "proxy": true,
             "param": {
                 "email": "email",
@@ -18,8 +18,8 @@
             "domain": "url",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "x897123809@icloud.com",
+                "passwd": "Kzx-Ac9-7VL-EQ4"
             }
         }
     ]
